@@ -1,0 +1,20 @@
+descongelaciones,304,null
+Casos con supervivencia 0.%,3,0.99
+Total transfers. %,297,97.7
+Gestaciones. %,153,51.52
+Embriones descongelados. Media. DS,334,1.099
+Embriones supervivencia >= 50%. Tasa media,325,97.305
+Embriones transferidos. Media,315,1.06
+Total sacos. Tasa implantación,161,51.11
+Número + Porcentaje de pruebas de embarazo positivo/transfer,174,58.59
+Número + Porcentaje gestación clínica/transfer,153,51.52
+Número + Porcentaje gestación bioquímicas/transfer,21,12.07
+Número + Porcentaje de abortos clínicos/transfer,30,17.17
+Número + Porcentaje de gestaciones gemelares/transfer,8,4.6
+Número + Porcentaje de gestación gemelar monozigótica/transfer,null,null
+Número + Porcentaje de gestaciones multifetales/transfer,0,0
+Número + Porcentaje de gestaciones ectópicas/transfer,1,0.57
+Total sacos. Tasa implantación,161,51.11
+Media tasa implantación / paciente,null,54.21
+Porcentaje de LCF+. Número total de sacos con LCF+,null,null
+Número + Número y porcentaje de RNV/transferencia,102,34.343
